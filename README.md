@@ -1,3 +1,5 @@
+
+
 # Healthcare Provider Dashboard
 
 An interactive data analytics dashboard visualizing key healthcare metrics across cities, procedures, departments, and diagnoses in the UK. This tool is designed to assist healthcare administrators in monitoring billing trends, cost structures, and service distributions.
@@ -23,15 +25,11 @@ Ideal for healthcare analysts and providers to:
 - Microsoft Map integration
 - DAX / SQL (if applicable)
 
-## 📁 Screenshot
-
-![Healthcare Dashboard](./Screenshot_2025-07-12.png)
-
 ## 🧾 License
 
 This project is for personal, non-commercial use only.
 
 ## 👤 Author
 
-[Kali Mota](https://github.com/yourusername)
+[Jenish Vekariya](https://github.com/jenish112)
 
