@@ -1,8 +1,10 @@
 
 
-# Healthcare Provider Dashboard
+# Healthcare Provider Dashboard 
 
 An interactive data analytics dashboard visualizing key healthcare metrics across cities, procedures, departments, and diagnoses in the UK. This tool is designed to assist healthcare administrators in monitoring billing trends, cost structures, and service distributions.
+
+### ⚡️ Link: https://app.powerbi.com/groups/me/reports/84827015-65f9-4478-9139-fb52a6620870/55213433ca963018974e?experience=power-bi
 
 ## 📊 Features
 
