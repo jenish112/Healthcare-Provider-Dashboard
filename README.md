@@ -8,8 +8,6 @@ An interactive data analytics dashboard visualizing key healthcare metrics acros
   <img src='https://github.com/jenish112/Healthcare-Provider-Dashboard/blob/main/Screenshot.png' width='700'/>
 </p>
 
-### ⚡️ Link: https://app.powerbi.com/groups/me/reports/84827015-65f9-4478-9139-fb52a6620870/55213433ca963018974e?experience=power-bi
-
 ## 📊 Features
 
 - **Financial Metrics Overview**: Billing amount, insurance coverage, medication cost, room charges, and treatment costs.
@@ -30,6 +28,8 @@ Ideal for healthcare analysts and providers to:
 - Power BI / Tableau (or your tool of choice)
 - Microsoft Map integration
 - DAX / SQL (if applicable)
+
+##### ⚡️ Link: https://app.powerbi.com/groups/me/reports/84827015-65f9-4478-9139-fb52a6620870/55213433ca963018974e?experience=power-bi
 
 ## 🧾 License
 
